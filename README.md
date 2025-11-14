@@ -32,6 +32,13 @@ OBSERVATION TABLE
 MODEL GRAPH:
 ![WhatsApp Image 2025-11-14 at 09 23 49_47115f87](https://github.com/user-attachments/assets/f905b247-f1ec-4303-9a56-f48a973940d6)
 
+<img width="1920" height="1200" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/75f92d70-9683-4a74-bbc6-48551f123d08" />
+
+<img width="1920" height="1200" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/2ddcba69-37b3-4cc1-a817-41cf5dc511c4" />
+
+
+<img width="1920" height="1200" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/fdd0d5cb-8ab7-4e9f-acf1-7a9039d9dc6c" />
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
